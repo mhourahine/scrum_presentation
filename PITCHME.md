@@ -1,17 +1,17 @@
-#Lessons to learn from Agile Software Development
+##Lessons to learn from Agile Software Development
 
 ---
 
-#A Brief History of Software Development
+##A Brief History of Software Development
 
 ---
 
-#The Waterfall Methodology
+##The Waterfall Methodology
 ![Image of Waterfall](images/waterfall-project-management.jpg)
 
 ---
 
-#How can we deal with highly changing requirements and lots of unknowns?
+##How can we deal with highly changing requirements and lots of unknowns?
 
 ---
 
@@ -19,56 +19,58 @@
 
 ---
 
-#Introducing Agile Methodologies
+##Introducing Agile Methodologies
 
-##The Agile Manifesto
-	- Individuals and interactions over processes and tools
-	- Working software over comprehensive documentation
-	- Customer collaboration over contract negotiation
-	- Responding to change over following a plan
+###The Agile Manifesto
 
----
-
-#Warning Major Jargon Ahead
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
 ---
 
-#What is Scrum? 
-
-
-
----
-
-#Roles
-
-	- Product Owner
-	- Scrum Master
-	- Team
+![Warning Image](images/warning.png)
+##Warning Major Jargon Ahead
 
 ---
 
-#Scrum Concepts
-
-	- Self Organizing Teams
-	- Backlog (List of tasks)
-	- Scrum Board
-	- DoD (Definition of Done)
+##Introducing: Scrum 
 
 ---
 
-#The Scrum Process
+##Roles
 
-	- Sprint Planning Meetings
-	- Backlog Refinement
-	-	Daily Scrum (a.k.a. the "standup")
-	- Sprint Review
-	- Sprint Retrospective
+- Product Owner
+- Scrum Master
+- Team
 
 ---
 
-#So what does this mean to us?
+##Scrum Concepts
+
+- Self Organizing Teams
+- Backlog (List of tasks)
+- Making Work Transparent - Scrum Board
+- DoD (Definition of Done)
 
 ---
+
+##The Scrum Process
+
+- Sprint Planning Meetings
+- Backlog Refinement
+-	Daily Scrum (a.k.a. the "standup")
+- Sprint Review
+- Sprint Retrospective
+
+---
+
+##So what does this mean to us?
+
+---
+
+##What if...
 
 Product = Program
 Product Owner = Program Coordinator
@@ -86,8 +88,7 @@ Backlog = Improvements or new ideas
 
 ---
 
-- Start with something small and get feedback early
-- 
+## Tip 1: Start with something small and get feedback early
 
 ---
 

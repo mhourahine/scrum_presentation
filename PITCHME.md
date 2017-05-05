@@ -15,15 +15,22 @@
 
 ---
 
+##Introducing Agile Methodologies
+
 ![Image of Agile Methodology](images/scrum-iteration-detail.png)
 
 ---
 
+###The Agile Manifesto
+
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
+---
+
 ##Case Study - FBI SENTINEL PROJECT
-
-###Executive Summary:
-
-Virtual Case File (or VCF) was a software application developed by the United States Federal Bureau of Investigation(FBI) between 2000 and 2005. The project was not close to completion when it was officially abandoned in January 2005, having turned into a complete fiasco for the FBI. In addition to wasting at least US $100 million, the failure brought widespread criticism to the bureau and its director, Robert S. Mueller III.
 
 ###Key Takeaways:
 
@@ -35,23 +42,46 @@ Virtual Case File (or VCF) was a software application developed by the United St
 
 ---
 
-##Introducing Agile Methodologies
-
-###The Agile Manifesto
-
-- Individuals and interactions over processes and tools
-- Working software over comprehensive documentation
-- Customer collaboration over contract negotiation
-- Responding to change over following a plan
-
----
-
 ![Warning Image](images/warning.png)
 ##Warning Major Jargon Ahead
 
 ---
 
 ##Introducing: Scrum 
+
+
+---
+
+##Scrum Concepts
+
+---
+
+##Frequent, small iterations
+
+---
+
+##Plan for reality
+
+---
+
+##Self Organizing Teams
+
+_Intentional Culture_
+
+---
+
+##Backlog
+
+_Continually groomed list of tasks_
+
+---
+
+##Making Work Transparent
+![Scrum board in Trello](images/scrumfortrelloboard.png)
+
+---
+
+##DoD (Definition of Done)
 
 ---
 
@@ -69,30 +99,17 @@ Virtual Case File (or VCF) was a software application developed by the United St
 
 ---
 
-##Scrum Concepts
+##The Sprint Retrospective
+
+[Fun Retrospectives](http://www.funretrospectives.com/)
 
 ---
 
-##Iteration over Prescription
+##Three Little Pigs
 
----
-
-##Self Organizing Teams
-###Intentional Culture
-
----
-
-##Backlog (Continually groomed list of tasks)
-
----
-
-##Making Work Transparent
-![Scrum board in Trello](images/scrumfortrelloboard.png)
-
----
-
-##DoD (Definition of Done)
-
+- Straw House: what's at risk
+- Stick House: what's stable but could be better
+- Brick House: what's strong
 ---
 
 ##So what does this mean to us?

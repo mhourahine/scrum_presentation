@@ -84,20 +84,18 @@ Backlog = Improvements or new ideas
 
 ---
 
-#What does this mean for student projects?
+##What does this mean for student projects?
 
 ---
 
-## Tip 1: Start with something small and get feedback early
+## Case Study: [EduScrum](http://eduscrum.nl)
 
 ---
 
-#Further Reading
+##Further Reading
 
-Scrum PDF
-Scrum eBook
-Scrum - The Art of Doing Twice As Much In Half The Time
+[Scrum Reference Card](https://www.collab.net/sites/default/files/uploads/CollabNet_scrumreferencecard.pdf)
+[Scrum - A Breathtakingly Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X)
+[Scrum - The Art of Doing Twice As Much In Half The Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X/ref=pd_lpo_sbs_14_t_1?_encoding=UTF8&psc=1&refRID=S4D8QWK03G7ZG6PFQAME)
 
 ---
-
-

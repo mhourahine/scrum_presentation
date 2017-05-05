@@ -15,7 +15,7 @@
 
 ---
 
-##Introducing Agile Methodologies
+###Introducing Agile Methodologies
 
 ![Image of Agile Methodology](images/scrum-iteration-detail.png)
 
@@ -30,9 +30,9 @@
 
 ---
 
-##Case Study - FBI SENTINEL PROJECT
+###Case Study - FBI SENTINEL PROJECT
 
-###Key Takeaways:
+Key Takeaways:
 
 - $575 million dollars wasted on the first two attempts at the project
 - Scrum Studio was set up in the basement of the Hoover Building
@@ -49,10 +49,9 @@
 
 ##Introducing: Scrum 
 
-
 ---
 
-##Scrum Concepts
+##Scrum Culture
 
 ---
 
@@ -60,24 +59,28 @@
 
 ---
 
+##Fail fast, learn & adapt
+
+---
+
 ##Plan for reality
 
 ---
 
-##Self Organizing Teams
+##Self-organized / Cross-discipline Teams
 
 _Intentional Culture_
 
 ---
 
-##Backlog
-
-_Continually groomed list of tasks_
+##Make Work Transparent
+![Scrum board in Trello](images/scrumfortrelloboard.png)
 
 ---
 
-##Making Work Transparent
-![Scrum board in Trello](images/scrumfortrelloboard.png)
+##Backlog
+
+_Continually reviewed & prioritized list of tasks_
 
 ---
 
@@ -110,6 +113,7 @@ _Continually groomed list of tasks_
 - Straw House: what's at risk
 - Stick House: what's stable but could be better
 - Brick House: what's strong
+
 ---
 
 ##So what does this mean to us?
@@ -124,17 +128,17 @@ Sprint = Term
 
 Backlog = Improvements or new ideas
 
-Scrum Master = anyone! (could even rotate)
+Scrum Master = anyone on team (could even rotate)
 
 Team = Everyone
 
 ---
 
-##What does this mean for student projects?
+##What does this mean for student learning?
 
 ---
 
-[Agile in Education](http://www.agileineducation.org/)
+## [Agile in Education](http://www.agileineducation.org/)
 
 ---
 

@@ -1,27 +1,27 @@
-##Lessons to learn from Agile Software Development
+## Lessons to learn from Agile Software Development
 
 ---
 
-##A Brief History of Software Development
+## A Brief History of Software Development
 
 ---
 
-##The Waterfall Methodology
+## The Waterfall Methodology
 ![Image of Waterfall](images/waterfall-project-management.jpg)
 
 ---
 
-##How can we deal with highly changing requirements and lots of unknowns?
+## How can we deal with highly changing requirements and lots of unknowns?
 
 ---
 
-###Introducing Agile Methodologies
+### Introducing Agile Methodologies
 
 ![Image of Agile Methodology](images/scrum-iteration-detail.png)
 
 ---
 
-###The Agile Manifesto
+### The Agile Manifesto
 
 - Individuals and interactions over processes and tools
 - Working software over comprehensive documentation
@@ -30,7 +30,7 @@
 
 ---
 
-###Case Study - FBI SENTINEL PROJECT
+### Case Study - FBI SENTINEL PROJECT
 
 Key Takeaways:
 
@@ -43,52 +43,52 @@ Key Takeaways:
 ---
 
 ![Warning Image](images/warning.png)
-##Warning Major Jargon Ahead
+## Warning Major Jargon Ahead
 
 ---
 
-##Introducing: Scrum 
+## Introducing: Scrum 
 
 ---
 
-##Scrum Culture
+## Scrum Culture
 
 ---
 
-##Frequent, small iterations
+## Frequent, small iterations
 
 ---
 
-##Fail fast, learn & adapt
+## Fail fast, learn & adapt
 
 ---
 
-##Plan for reality
+## Plan for reality
 
 ---
 
-##Self-organized / Cross-discipline Teams
+## Self-organized / Cross-discipline Teams
 
 _Intentional Culture_
 
 ---
 
-##Make Work Transparent
+## Make Work Transparent
 ![Scrum board in Trello](images/scrumfortrelloboard.png)
 
 ---
 
-##Backlog
+## Backlog
 
 _Continually reviewed & prioritized list of tasks_
 
 ---
 
-##DoD (Definition of Done)
+## DoD (Definition of Done)
 
 ---
 
-##The Scrum Components
+## The Scrum Components
 
 - Sprint Planning Meeting
 - Sprint Backlog Refinement
@@ -102,13 +102,13 @@ _Continually reviewed & prioritized list of tasks_
 
 ---
 
-##The Sprint Retrospective
+## The Sprint Retrospective
 
 [Fun Retrospectives](http://www.funretrospectives.com/)
 
 ---
 
-##Three Little Pigs
+## Three Little Pigs
 
 - Straw House: what's at risk
 - Stick House: what's stable but could be better
@@ -116,11 +116,11 @@ _Continually reviewed & prioritized list of tasks_
 
 ---
 
-##So what does this mean to us?
+## So what does this mean to us?
 
 ---
 
-##What if...
+## What if...
 
 Product = Changmaker Curriculum
 
@@ -134,7 +134,7 @@ Team = Everyone
 
 ---
 
-##What does this mean for student learning?
+## What does this mean for student learning?
 
 ---
 
@@ -150,7 +150,7 @@ Team = Everyone
 
 ---
 
-##Further Reading
+## Further Reading
 
 [Scrum Reference Card](https://www.collab.net/sites/default/files/uploads/CollabNet_scrumreferencecard.pdf)
 
